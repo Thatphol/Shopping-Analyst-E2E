@@ -1,3 +1,6 @@
+-- Refferance data
+-- https://www.kaggle.com/datasets/ruchi798/shopping-cart-database?select=customers.csv
+
 CREATE TABLE customers 
 (
     customer_id INT,
